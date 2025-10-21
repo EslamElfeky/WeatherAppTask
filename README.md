@@ -46,5 +46,5 @@ A modern weather application built with **Jetpack Compose** and **MVVM architect
 
 ---
 
-Would you like me to add a **screenshots section**, a **license**, or **API setup instructions** next?
+
 
