@@ -11,7 +11,7 @@ A modern weather application built with **Jetpack Compose** and **MVVM architect
 - ✅ **Retrofit** with suspend functions for API calls
 - ✅ **Current location detection** using FusedLocationProvider
 - ✅ **5-day weather forecast** in a LazyColumn
-- ✅ **Room database caching** with 1-hour cache validity
+- ✅ **Room database caching** with cache validity
 
 ## 🧩 Key Components
 
